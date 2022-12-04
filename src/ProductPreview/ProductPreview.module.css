@@ -1,0 +1,39 @@
+
+.ProductPriview{
+    width: 100%;
+    position: relative;
+    z-index: -3;
+  }
+  
+  .ProductPriview > img {
+    width: 50%;
+    
+  }
+  
+  .TimeSection{
+    position: absolute;
+    top: 48%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+  
+    color: white;
+    font-size: 48px;
+    font-weight: 600;
+  }
+  
+  .HeartBeatSection{
+    position: absolute;
+    top: 57%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+  
+    color: white;
+    font-size: 48px;
+    font-weight: 600;
+  }
+  
+  
+  
+  .HeartBeatSection > p {
+    margin-top: 16px;
+  }
